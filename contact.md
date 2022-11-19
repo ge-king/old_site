@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: Contact me!
 ---
 
 Get in contact with me via...
