@@ -8,4 +8,4 @@ The third installment in the YZR game series. The first two games were developed
 
 It's time for YZR3! This game is currently being written in the awesome open-source [Godot](https://godotengine.org/).
 
-You can play a HTML5 version of the game (may not be the most current version) [here].
+You can play a HTML5 version of the game (may not be the most current version) [here](https://gking.me/playyzr/yzr3.html).
