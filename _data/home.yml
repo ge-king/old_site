@@ -37,6 +37,11 @@ old_project_entries:
     desc: Analysis suite for space shuttle heatshield tile temperature flow analysis during re-entry. Translated from MATLAB into Python.
     highlight: WIP
     
+  - title: Engineering designs and drawings
+    url: engineering
+    desc: Various engineering designs and drawings from my time at Bath.
+    highlight: WIP
+    
 footer_entries:
 
   - title: github
