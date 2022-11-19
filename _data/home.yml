@@ -11,7 +11,7 @@ project_entries:
     desc: A python suite to simulate advanced orbital manoeuvres.
     highlight: WIP
     
-  - title: Yikes! Zombies! Run! 3
+  - title: YZR! 3
     url: yikeszombies3
     desc: The third installment of the YZR game series!
     highlight: WIP
