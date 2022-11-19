@@ -17,3 +17,13 @@ When writing large or complicated documents with lots of figures and equations, 
 
 I use the online, collaborative editor [Overleaf](https://www.overleaf.com/) to write my documents - I can use it on any computer, and all my files are automatically saved and synced to my account.
 
+
+
+## Templates
+
+My lab report template can be found [here.](https://github.com/ge-king/lab-report-template)
+
+My letter template can be found [here.]
+
+
+
