@@ -28,12 +28,14 @@ project_entries:
 
   - title: LaTeX
     url: latex
-    desc: The LaTeX templates I use to write reports and letters.
+    desc: The LaTeX templates I use to write reports and letters, and the setup that I use for academic writing.
 
 
 old_project_entries:
-
-    highlight: NEW
+  - title: Shuttle heatshield heat transfer analysis
+    url: latex
+    desc: Analysis suite for space shuttle heatshield tile temperature flow analysis during re-entry. Translated from MATLAB into Python.
+    highlight: WIP
     
 footer_entries:
 
