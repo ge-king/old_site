@@ -26,8 +26,8 @@ title: CV
 ### Lawrence Sheriff School
 **A-Levels and GCSEs**,  *2012 - 2019*
 
-- A Levels: Mathematics: A*, Further Mathematics: A, Physics: A*, Chemistry: C, EPQ: A* 
-- 12 GCSEs with 10 A/A*s.
+- A Levels: Mathematics: A\*, Further Mathematics: A, Physics: A\*, Chemistry: C, EPQ: A\* 
+- 12 GCSEs with 10 A/A\*s.
 
 ## Experience
 
