@@ -65,22 +65,22 @@ title: CV
 - Strong with Python (including NumPy and MatPlotLib), TeX, MATLAB.
 - Basic understanding of HTML & CSS, GdScript, R.
 
-## Computer Software
+### Computer Software:
 - Highly competent with Word, PowerPoint, Autodesk Inventor, Excel, Photoshop, Inkscape.
 - Competent with Fusion360.
 - Generally, very confident using computers, having experience with Windows, Mac and multiple Linux distros.
 
-## App Development
+### App Development:
 - Have experience in developing and publishing mobile games to Google Play, using the open-source development platform Godot.
 
-## Hobbies
+### Hobbies:
 - Keen interest in the gym and recreational weightlifting.
 - Keep informed in national and global politics and economics
 - Actively trade and invest savings in the stock market.
 - Build and repair desktop PCs and laptops.
 - Self-study web development through online courses.
 
-## Others
+### Others:
 - Holder of a UK driver's license.
 
 
