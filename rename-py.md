@@ -7,7 +7,7 @@ title: batch-rename-py
 
 ## What is it?
 
-`batch-rename-py' is a simple Python3 script that simply renames all files in a directory to the user's required naming scheme. Current naming schemes are:
+`batch-rename-py` is a simple Python3 script that simply renames all files in a directory to the user's required naming scheme. Current naming schemes are:
 - `ChosenName-YYYY-MM-DD-HH-MM-SS` where the time and date are of file creation.
 
 ## How do I use it?
