@@ -25,7 +25,22 @@ project_entries:
     url: voxel
     desc: Designing a voxel engine in C++.
     highlight: WIP
-
+    
+  - title: Generate-Readme-Py
+    url: generate-readme
+    desc: Automatic generation of README.md and requirements.txt files for Python projects on Github.
+    highlight: WIP
+    
+  - title: Batch-Rename-Py
+    url: rename-py
+    desc: Batch rename files by date, time and more.
+    highlight: NEW
+    
+  - title: Weather Hub
+    url: weather
+    desc: A HTML5 weather hub. Displays weather for a chosen location.
+    highlight: WIP
+    
   - title: LaTeX
     url: latex
     desc: The LaTeX templates I use to write reports and letters, and the setup that I use for academic writing.
@@ -33,7 +48,7 @@ project_entries:
 
 old_project_entries:
   - title: Shuttle heatshield heat transfer analysis
-    url: latex
+    url: shuttle
     desc: Analysis suite for space shuttle heatshield tile temperature flow analysis during re-entry. Translated from MATLAB into Python.
     highlight: WIP
     
