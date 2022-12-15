@@ -29,12 +29,10 @@ project_entries:
   - title: Generate-Readme-Py
     url: generate-readme
     desc: Automatic generation of README.md and requirements.txt files for Python projects on Github.
-    highlight: WIP
     
   - title: Batch-Rename-Py
     url: rename-py
     desc: Batch rename files by date, time and more.
-    highlight: NEW
     
   - title: Weather Hub
     url: weather
